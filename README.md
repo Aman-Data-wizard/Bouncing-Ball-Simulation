@@ -1,0 +1,1 @@
+A real-time simulation of a ball moving along different axes in 3D space. Using the ball’s 3-dimensional coordinates we project its position onto a wide screen and make the ball “jump” (vertical displacement) while preserving realistic motion and perspective. The simulation supports user controls for camera, speed, and jump intensity.
